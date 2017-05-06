@@ -1,0 +1,29 @@
+h1 {
+  padding-top: 25px;
+  padding-left: 35px;
+  padding-bottom: 15px;
+  font-family: 'Garamond';
+  color: #D8CBA5;
+  text-shadow:
+      -1px -1px 0 #000,  
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+  font-size: 48px;
+  letter-spacing: 2.5;
+}
+p {
+  font-family: 'Futura';
+  color: black; 
+}
+.container {
+  background-color: grey;
+  position: center;
+}
+.panel-body {
+  background-color: #e8ddc9;
+  margin: 10px;
+}
+.row {
+  padding-top: 19px;
+}
